@@ -12,7 +12,7 @@ Stranger Things character info fetches data from a stranger things database to p
 Stranger Thing project allows user to look up the information on their favorite characters.  The info is provided by using an API and displayed on the DOM.
 
 ## Optimizations
-*(optional)*
+
 
 Currently, the site only provides 5 categorical information for the character and an image, I would like to add more information about the character as well as the actual person that plays the character to give the user more substance.
 
